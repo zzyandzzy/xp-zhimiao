@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_hpv_type">
+        <item>9价</item>
+        <item>4价</item>
+        <item>进口2价</item>
+        <item>国产2价</item>
+    </string-array>
+</resources>

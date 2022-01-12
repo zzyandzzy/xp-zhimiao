@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">xp-wx</string>
+    <string name="enable_debug">是否开启debug模式</string>
+    <string name="cookie">Cookie</string>
+    <string name="copy">复制</string>
+    <string name="signature">Signature</string>
+    <string name="get_user">更新用户信息</string>
+    <string name="start_seckill">开始抢购</string>
+    <string name="hospital_id">医院id</string>
+    <string name="pid">pid</string>
+    <string name="date">抢购时间(多个时间用,隔开)</string>
+    <string name="clear">清空</string>
+    <string name="start_seckill_all_month">抢购本月</string>
+    <string name="upload_config">上传</string>
+    <string name="upload_cookie">上传Cookie</string>
+</resources>

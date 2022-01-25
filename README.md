@@ -1,5 +1,7 @@
 # 知苗易约Xposed版
 
+可加入[telegram group](https://t.me/+NWi5l7NwCrRhZmE1)交流
+
 ## 使用
 
 1. 必须安装[8.0.15](https://www.wandoujia.com/apps/596157/history_v2020)版的微信
